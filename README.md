@@ -2,7 +2,11 @@
 
 **Machine Learning Research Engineer Intern @Hi! PARIS - Institut Polytechnique Paris x Telecom x HEC Paris x INRIA Saclay**
 
-* 🔭 I'm currently working as a Machine Learning Engineer <br> * 👩🏿‍🎓Student of Paris 1 Panthéon-Sorbonne<br> * 🌱  I'm currently trying to learn as much as I can in Data Science World !<br> * ⚡Fun fact: I love hiking, gardening and drawing ✏️<br> * 🌐My Portfolio Website : https://www.maevaportfolio.com/<br>
+* 🔭 I'm currently working as a Machine Learning Engineer
+* 👩🏿‍🎓 Student of Paris 1 Panthéon-Sorbonne
+* 🌱 I'm currently trying to learn as much as I can in Data Science World !
+* ⚡Fun fact: I love hiking, gardening and drawing ✏️
+* 🌐 My Portfolio Website : https://www.maevaportfolio.com/<br>
 
 
 ## 🌐 Socials:
