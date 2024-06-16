@@ -1,5 +1,10 @@
 # 💫 Hi There. I am Maeva N'GUESSAN 
--🔭 I'm currently working as a Machine Learning Engineer <br>-👩🏿‍🎓Student of Paris 1 Panthéon-Sorbonne<br>-🌱  I'm currently trying to learn as much as I can in Data Science World !<br>-⚡Fun fact: I love hiking, gardening and drawing ✏️<br>-📫How to reach me : https://www.linkedin.com/in/maeva-nguessan-91603a192/<br>-🌐My Portfolio Website : https://www.maevaportfolio.com/<br>
+-🔭I'm currently working as a Machine Learning Engineer <be>
+-👩🏿‍🎓Student of Paris 1 Panthéon-Sorbonne<be>
+-🌱I'm currently trying to learn as much as I can in Data Science World !<be>
+-⚡Fun fact: I love hiking, gardening and drawing ✏️<be>
+-📫How to reach me : https://www.linkedin.com/in/maeva-nguessan-91603a192/<br>
+-🌐My Portfolio Website : https://www.maevaportfolio.com/<br>
 
 
 ## 🌐 Socials:
