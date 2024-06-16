@@ -1,4 +1,4 @@
-# 💫 Hi There. I am Maeva N'GUESSAN 
+# Hi There, I am Maeva N'GUESSAN 💫 
 
 -🔭 I'm currently working as a Machine Learning Engineer <br>-👩🏿‍🎓Student of Paris 1 Panthéon-Sorbonne<br>-🌱  I'm currently trying to learn as much as I can in Data Science World !<br>-⚡Fun fact: I love hiking, gardening and drawing ✏️<br>-🌐My Portfolio Website : https://www.maevaportfolio.com/<br>
 
