@@ -1,8 +1,8 @@
 # Hi There, I am Maeva N'GUESSAN 💫 
 
-**Machine Learning Research Engineer Intern @Hi! PARIS - Institut Polytechnique Paris x Telecom x HEC Paris x INRIA Saclay**
+**Data Science, Artificial Intelligence and tech Enthusiat**
 
-* 🔭 I'm currently working as a Data Scientist
+* 🔭 I worked as a ML Engineer at @Hi! PARIS, Data Scientist at @Ekimetrics and now Data Analyst at @Safran
 * 👩🏾‍🎓 Student of Paris 1 Panthéon-Sorbonne
 * 🌱 I'm currently trying to learn as much as I can in Data Science World !
 * ⚡Fun fact: I love hiking, gardening and drawing ✏️
